@@ -99,7 +99,7 @@ namespace Bai06
                         Console.Write(tdarrray[i, j]);
                     }
                     else
-                        Console.Write(tdarrray[i, j] + ", ");
+                        Console.Write(tdarrray[i, j] + ",\t");
                 }
                 if (i < tdarrray.GetLength(0) - 1)
                 {
@@ -150,7 +150,7 @@ namespace Bai06
                         Console.Write(array[i, j]);
                     }
                     else
-                        Console.Write(array[i, j] + ", ");
+                        Console.Write(array[i, j] + ",\t");
                 }
                 if (sum > maxsum)
                 {
