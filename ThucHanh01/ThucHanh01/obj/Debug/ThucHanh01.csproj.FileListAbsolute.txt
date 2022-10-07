@@ -1,0 +1,8 @@
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.exe.config
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.exe
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.pdb
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.csproj.AssemblyReference.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.csproj.SuggestedBindingRedirects.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.csproj.CoreCompileInputs.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.exe
+C:\Users\laich\source\repos\LapTrinhTrucQuan\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.pdb

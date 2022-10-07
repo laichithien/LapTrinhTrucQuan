@@ -1,0 +1,8 @@
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\bin\Debug\Bai03.exe.config
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\bin\Debug\Bai03.exe
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\bin\Debug\Bai03.pdb
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\obj\Debug\Bai03.exe
+C:\Users\laich\source\repos\LapTrinhTrucQuan\BTH1_LaiChiThien_20520309\Bai03\obj\Debug\Bai03.pdb
