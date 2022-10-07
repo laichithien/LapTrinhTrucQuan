@@ -1,0 +1,8 @@
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\bin\Debug\CongNhanMaTranVuong.exe.config
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\bin\Debug\CongNhanMaTranVuong.exe
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\bin\Debug\CongNhanMaTranVuong.pdb
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\obj\Debug\CongNhanMaTranVuong.csproj.AssemblyReference.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\obj\Debug\CongNhanMaTranVuong.csproj.SuggestedBindingRedirects.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\obj\Debug\CongNhanMaTranVuong.csproj.CoreCompileInputs.cache
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\obj\Debug\CongNhanMaTranVuong.exe
+C:\Users\laich\source\repos\LapTrinhTrucQuan\LyThuyet\CongNhanMaTranVuong\CongNhanMaTranVuong\obj\Debug\CongNhanMaTranVuong.pdb
