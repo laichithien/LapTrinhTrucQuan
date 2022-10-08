@@ -35,12 +35,30 @@ namespace CongNhanMaTranVuong
         }
         static int[,] minusMatrix(int[,] matrix1, int[,] matrix2)
         {
-            int[,] matrixresult = new int[matrix1.Length, matrix1.Length];
-            for (int i = 0; i < matrix1.Length; i++)
+            int[,] matrixresult = new int[matrix1.GetLength(0), matrix1.GetLength(0)];
+            for (int i = 0; i < matrix1.GetLength(0); i++)
             {
-                for (int j = 0; j < matrix1.Length; j++)
+                for (int j = 0; j < matrix1.GetLength(0); j++)
                 {
                     matrixresult[i, j] = matrix1[i, j] - matrix2[i, j];
+                }
+            }
+            return matrixresult;
+        }
+        static int[,] multiplyMatrix(int[,] matrix1, int[,] matrix2)
+        {
+            int[,] matrixresult = new int[matrix1.GetLength(0), matrix1.GetLength(0)];
+            for (int i = 0; i < matrix1.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix1.GetLength(0); j++)
+                {
+                    int sum = 0;
+                    for (int k = 0; k < matrix1.GetLength(0); k++)
+                    {
+                        Console.WriteLine(matrix1[k, i] + "*" + matrix2[j, k]);
+                        sum+=matrix1[k, i] * matrix2[j, k];
+                    }
+                    matrixresult[j, i] = sum;
                 }
             }
             return matrixresult;
@@ -118,6 +136,7 @@ namespace CongNhanMaTranVuong
             comboBox.Location = new Point(startingPoint[0] + Convert.ToInt16(size) * 40 + 30, startingPoint[1] + 40 * (Convert.ToInt16(size) / 2));
             comboBox.Width = 50;
             comboBox.Items.Add(" + ");
+            comboBox.Items.Add(" X ");
             comboBox.Items.Add(" - ");
             comboBox.SelectedIndex = 0;
             comboBox.Font = new Font("Time New Romans", 14);
@@ -184,9 +203,11 @@ namespace CongNhanMaTranVuong
             comboBox.Location = new Point(startingPoint[0] + Convert.ToInt16(size) * 40 + 30, startingPoint[1] + 40 * (Convert.ToInt16(size)/2));
             comboBox.Width = 50;
             comboBox.Items.Add(" + ");
+            comboBox.Items.Add(" X ");
             comboBox.Items.Add(" - ");
             comboBox.SelectedIndex = 0;
             comboBox.Font = new Font("Time New Romans",14);
+            comboBox.SelectedIndexChanged += new EventHandler(comboBox_SelectedIndexChanged);
             form.Controls.Add(comboBox);
 
             matrixTextBox2 = generateMatrixText(startingPoint[0] + Convert.ToInt16(size) * 40 + 100, startingPoint[1], Convert.ToInt16(size));
@@ -224,7 +245,21 @@ namespace CongNhanMaTranVuong
             {
                 matrix1 = getMatrix(matrixTextBox1);
                 matrix2 = getMatrix(matrixTextBox2);
-                int[,] matrixanswer = plusMatrix(matrix1, matrix2);
+                int[,] matrixanswer = matrix1;
+                switch (comboBox.SelectedIndex)
+                {
+                    case 0:
+                        matrixanswer = plusMatrix(matrix1, matrix2);
+                        break;
+                    case 1:
+                        matrixanswer = multiplyMatrix(matrix1, matrix2);
+                        break;
+                    case 2:
+                        matrixanswer = minusMatrix(matrix1, matrix2);
+                        break;
+                    default:
+                        break;
+                }
                 showMatrixTextBox(matrixanswer);
             }
             catch
@@ -237,6 +272,10 @@ namespace CongNhanMaTranVuong
             NumericUpDown numericUpDown = (NumericUpDown)sender;
             decimal value = numericUpDown.Value;
             setSize(value);
+        }
+        static void comboBox_SelectedIndexChanged(Object sender, EventArgs e)
+        {
+
         }
     }
 }
