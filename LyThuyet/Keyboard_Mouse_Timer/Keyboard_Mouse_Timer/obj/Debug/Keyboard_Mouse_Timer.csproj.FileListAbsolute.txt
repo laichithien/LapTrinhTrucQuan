@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\bin\Debug\Keyboard_Mouse_Timer.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\bin\Debug\Keyboard_Mouse_Timer.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\bin\Debug\Keyboard_Mouse_Timer.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\obj\Debug\Keyboard_Mouse_Timer.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\obj\Debug\Keyboard_Mouse_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\obj\Debug\Keyboard_Mouse_Timer.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\obj\Debug\Keyboard_Mouse_Timer.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Keyboard_Mouse_Timer\Keyboard_Mouse_Timer\obj\Debug\Keyboard_Mouse_Timer.pdb

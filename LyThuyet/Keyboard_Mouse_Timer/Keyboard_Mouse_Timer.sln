@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboard_Mouse_Timer", "Keyboard_Mouse_Timer\Keyboard_Mouse_Timer.csproj", "{24D44F52-4BC3-4ED0-AAFC-11297DD3B53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D44F52-4BC3-4ED0-AAFC-11297DD3B53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D44F52-4BC3-4ED0-AAFC-11297DD3B53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D44F52-4BC3-4ED0-AAFC-11297DD3B53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D44F52-4BC3-4ED0-AAFC-11297DD3B53D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB4A3B6-3EE6-4C3B-99D4-FA6AFC262474}
+	EndGlobalSection
+EndGlobal
