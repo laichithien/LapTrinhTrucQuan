@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\bin\Debug\ChessGame.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\obj\Debug\ChessGame.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\obj\Debug\ChessGame.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChessGame\ChessGame\obj\Debug\ChessGame.pdb

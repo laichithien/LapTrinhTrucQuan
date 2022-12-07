@@ -1,0 +1,10 @@
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\bin\Debug\TH3.exe.config
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\bin\Debug\TH3.exe
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\bin\Debug\TH3.pdb
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.Properties.Resources.resources
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.csproj.GenerateResource.cache
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.exe
+C:\Workspace\LapTrinhTrucQuan\ThucHanh\TH3\TH3\obj\Debug\TH3.pdb

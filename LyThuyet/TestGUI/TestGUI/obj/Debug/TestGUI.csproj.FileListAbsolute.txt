@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\bin\Debug\TestGUI.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\bin\Debug\TestGUI.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\bin\Debug\TestGUI.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\obj\Debug\TestGUI.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TestGUI\TestGUI\obj\Debug\TestGUI.pdb

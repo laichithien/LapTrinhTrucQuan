@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\bin\Debug\Thi.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\bin\Debug\Thi.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\bin\Debug\Thi.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\obj\Debug\Thi.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\obj\Debug\Thi.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\obj\Debug\Thi.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\obj\Debug\Thi.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\Thi\Thi\obj\Debug\Thi.pdb
