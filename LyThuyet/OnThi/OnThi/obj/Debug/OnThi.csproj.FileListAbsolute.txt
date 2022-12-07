@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\bin\Debug\OnThi.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\bin\Debug\OnThi.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\bin\Debug\OnThi.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\obj\Debug\OnThi.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\obj\Debug\OnThi.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\obj\Debug\OnThi.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\obj\Debug\OnThi.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\OnThi\OnThi\obj\Debug\OnThi.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppBanHang.DAO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,10 +18,16 @@ namespace Bai09
     {
         static DataTable dt;
         static string path = "data.csv";
+        static int stt;
         public Form1()
         {
             InitializeComponent();
-            loadDataToForm();
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.None;
+            dataGridView1.AllowUserToOrderColumns = false;
+            dataGridView1.AllowUserToResizeColumns = false;
+            //loadDataToForm();
+            loadData();
             checkBox1.Checked = true;
         }
         private void loadDataToForm()
@@ -46,6 +53,7 @@ namespace Bai09
                 }
             }
             dataGridView1.DataSource = dt;
+            stt = dt.Rows.Count;
         }
         private void saveDataToCSV()
         {
@@ -61,6 +69,20 @@ namespace Bai09
                 sb.AppendLine(string.Join(",", fields));
             }
             System.IO.File.WriteAllText(path, sb.ToString(), System.Text.Encoding.UTF8);
+        }
+
+        private void loadData()
+        {
+            Data_Provider dp = new Data_Provider();
+            dt = dp.ExecuteQuery("select * from SINHVIEN");
+            dataGridView1.DataSource = dt;
+            stt = dt.Rows.Count;
+            dataGridView1.Columns["STT"].Visible = false;
+        }
+        private void saveData()
+        {
+            Data_Provider dp = new Data_Provider();
+            string query = "";
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -81,7 +103,12 @@ namespace Bai09
             string ChuyenNganh = textBox3.Text == "" ? "Empty" : textBox3.Text;
             string GioiTinh = checkBox1.Checked == true ? "Nam" : "Nữ";
             string SoMon = richTextBox2.Lines.Count().ToString();
-            dt.Rows.Add(MSSV,HoTen,ChuyenNganh, GioiTinh, SoMon);
+            stt++;
+            dt.Rows.Add(stt,MSSV,HoTen,ChuyenNganh, GioiTinh, SoMon);
+            string query = "insert into SINHVIEN(STT,MSSV,HOTEN,CHUYENNGANH,GIOITINH,SOMON) values";
+            query += "('"+stt+"','"+MSSV+"',N'"+HoTen+"',N'"+ChuyenNganh+"',N'"+GioiTinh+"','"+SoMon+"')";
+            Data_Provider dp = new Data_Provider();
+            dp.ExecuteNonQuery(query);
             saveDataToCSV();
         }
 
@@ -101,6 +128,17 @@ namespace Bai09
                 checkBox1.Checked = false;
             }
             else checkBox2.Checked = true;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int STT = dataGridView1.CurrentCell.RowIndex;
+            dt.Rows.RemoveAt(STT);
+            STT++;
+            string query = "DELETE from SINHVIEN where STT = '"+STT+"'";
+            Data_Provider dp = new Data_Provider();
+            dp.ExecuteNonQuery(query);
+            saveDataToCSV();
         }
     }
 }

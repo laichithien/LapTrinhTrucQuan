@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\bin\Debug\TEST.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\bin\Debug\TEST.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\obj\Debug\TEST.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\obj\Debug\TEST.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\TEST\TEST\obj\Debug\TEST.pdb

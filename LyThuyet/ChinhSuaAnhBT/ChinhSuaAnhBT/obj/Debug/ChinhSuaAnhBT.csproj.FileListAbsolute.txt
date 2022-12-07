@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\bin\Debug\ChinhSuaAnhBT.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\bin\Debug\ChinhSuaAnhBT.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\bin\Debug\ChinhSuaAnhBT.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\obj\Debug\ChinhSuaAnhBT.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\obj\Debug\ChinhSuaAnhBT.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\obj\Debug\ChinhSuaAnhBT.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\obj\Debug\ChinhSuaAnhBT.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\ChinhSuaAnhBT\ChinhSuaAnhBT\obj\Debug\ChinhSuaAnhBT.pdb

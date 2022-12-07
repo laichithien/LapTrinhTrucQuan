@@ -122,6 +122,8 @@
             // 
             // button8
             // 
+            this.button8.Cursor = System.Windows.Forms.Cursors.No;
+            this.button8.Enabled = false;
             this.button8.ForeColor = System.Drawing.Color.Blue;
             this.button8.Location = new System.Drawing.Point(334, 176);
             this.button8.Name = "button8";
@@ -154,6 +156,8 @@
             // 
             // button9
             // 
+            this.button9.Cursor = System.Windows.Forms.Cursors.No;
+            this.button9.Enabled = false;
             this.button9.ForeColor = System.Drawing.Color.Red;
             this.button9.Location = new System.Drawing.Point(12, 176);
             this.button9.Name = "button9";
@@ -175,6 +179,8 @@
             // 
             // button11
             // 
+            this.button11.Cursor = System.Windows.Forms.Cursors.No;
+            this.button11.Enabled = false;
             this.button11.ForeColor = System.Drawing.Color.Red;
             this.button11.Location = new System.Drawing.Point(12, 238);
             this.button11.Name = "button11";
@@ -218,6 +224,8 @@
             // 
             // button15
             // 
+            this.button15.Cursor = System.Windows.Forms.Cursors.No;
+            this.button15.Enabled = false;
             this.button15.ForeColor = System.Drawing.Color.Blue;
             this.button15.Location = new System.Drawing.Point(334, 238);
             this.button15.Name = "button15";
@@ -239,6 +247,8 @@
             // 
             // button17
             // 
+            this.button17.Cursor = System.Windows.Forms.Cursors.No;
+            this.button17.Enabled = false;
             this.button17.ForeColor = System.Drawing.Color.Red;
             this.button17.Location = new System.Drawing.Point(12, 300);
             this.button17.Name = "button17";
@@ -282,6 +292,8 @@
             // 
             // button21
             // 
+            this.button21.Cursor = System.Windows.Forms.Cursors.No;
+            this.button21.Enabled = false;
             this.button21.ForeColor = System.Drawing.Color.Blue;
             this.button21.Location = new System.Drawing.Point(334, 300);
             this.button21.Name = "button21";
@@ -303,6 +315,8 @@
             // 
             // button23
             // 
+            this.button23.Cursor = System.Windows.Forms.Cursors.No;
+            this.button23.Enabled = false;
             this.button23.ForeColor = System.Drawing.Color.Red;
             this.button23.Location = new System.Drawing.Point(12, 362);
             this.button23.Name = "button23";
@@ -313,6 +327,8 @@
             // 
             // button24
             // 
+            this.button24.Cursor = System.Windows.Forms.Cursors.No;
+            this.button24.Enabled = false;
             this.button24.ForeColor = System.Drawing.Color.Blue;
             this.button24.Location = new System.Drawing.Point(152, 362);
             this.button24.Name = "button24";
