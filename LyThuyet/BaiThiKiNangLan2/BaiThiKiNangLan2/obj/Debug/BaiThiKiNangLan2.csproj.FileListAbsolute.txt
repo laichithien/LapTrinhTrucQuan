@@ -1,0 +1,8 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\bin\Debug\BaiThiKiNangLan2.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\bin\Debug\BaiThiKiNangLan2.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\bin\Debug\BaiThiKiNangLan2.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\obj\Debug\BaiThiKiNangLan2.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\obj\Debug\BaiThiKiNangLan2.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\obj\Debug\BaiThiKiNangLan2.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\obj\Debug\BaiThiKiNangLan2.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BaiThiKiNangLan2\BaiThiKiNangLan2\obj\Debug\BaiThiKiNangLan2.pdb

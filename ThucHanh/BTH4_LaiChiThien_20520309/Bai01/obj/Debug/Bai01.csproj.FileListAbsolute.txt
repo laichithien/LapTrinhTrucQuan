@@ -1,0 +1,11 @@
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\bin\Debug\Bai01.exe.config
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\bin\Debug\Bai01.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\bin\Debug\Bai01.pdb
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.Form1.resources
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.exe
+C:\Workspace\LapTrinhTrucQuan\LyThuyet\BTH4_LaiChiThien_20520309\Bai01\obj\Debug\Bai01.pdb
